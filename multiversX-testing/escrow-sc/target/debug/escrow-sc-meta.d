@@ -1,0 +1,1 @@
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/debug/escrow-sc-meta: /home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/meta/src/main.rs /home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/src/escrow_sc.rs

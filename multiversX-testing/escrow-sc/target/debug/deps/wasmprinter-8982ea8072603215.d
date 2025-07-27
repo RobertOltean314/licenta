@@ -1,0 +1,10 @@
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/debug/deps/libwasmprinter-8982ea8072603215.rmeta: /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/lib.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/component.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/operator.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/print.rs
+
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/debug/deps/libwasmprinter-8982ea8072603215.rlib: /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/lib.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/component.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/operator.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/print.rs
+
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/debug/deps/wasmprinter-8982ea8072603215.d: /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/lib.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/component.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/operator.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/print.rs
+
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/lib.rs:
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/component.rs:
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/operator.rs:
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wasmprinter-0.235.0/src/print.rs:

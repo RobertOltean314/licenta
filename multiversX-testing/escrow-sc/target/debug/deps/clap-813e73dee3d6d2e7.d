@@ -1,0 +1,7 @@
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/debug/deps/libclap-813e73dee3d6d2e7.rmeta: /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/lib.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/../examples/demo.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/../examples/demo.md
+
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/debug/deps/clap-813e73dee3d6d2e7.d: /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/lib.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/../examples/demo.rs /home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/../examples/demo.md
+
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/lib.rs:
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/../examples/demo.rs:
+/home/robert/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/clap-4.5.41/src/../examples/demo.md:

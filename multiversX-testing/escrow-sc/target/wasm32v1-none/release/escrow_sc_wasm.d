@@ -1,0 +1,1 @@
+/home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/target/wasm32v1-none/release/escrow_sc_wasm.wasm: /home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/src/escrow_sc.rs /home/robert/Desktop/work/programming/university/licenta/multiversX-testing/escrow-sc/wasm/src/lib.rs
