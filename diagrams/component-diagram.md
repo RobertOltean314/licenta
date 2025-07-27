@@ -1,0 +1,2 @@
+1. Invoice Processing Service - this is where the ZK algorithm should happen? Or where it takes the encrypted PDF and it modifies it to be good as input for ZK. Why do we want to store invoices in a DB?
+2. How can Tax Calculator Service calculate the taxes if it can't access the invoices? We don't want to update the displayed tax that will be payed after each invoice is registered, maybe we can choose an interface, for example at the end of each week.
